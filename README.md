@@ -51,7 +51,7 @@ To set up the project locally:
    ```
 4. **Run the Application**:
    ```bash
-   python app.py
+   python main.py
    ```
 5. **Access the Interface**:
    Open your browser and go to `http://localhost:5000` to use the system.
